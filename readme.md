@@ -47,4 +47,4 @@ Make sure that the student images are clear and there is no obstruction on the f
 
 <br>
 ## Author
-## [Rohan Das](rohandas28.github.io)
+## [Rohan Das](https://rohandas28.github.io)
