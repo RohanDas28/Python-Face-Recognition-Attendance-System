@@ -1,5 +1,8 @@
 # Python Face Recognition Attendance System
+
 This is a face recognition based attendance system developed in Python. It uses the face_recognition library along with other modules to recognize faces and mark attendance in a CSV file.
+
+Author: [Rohan Das](https://rohandas28.github.io)
 
 ## Requirements
 ```
@@ -46,5 +49,4 @@ Make sure that the student images are clear and there is no obstruction on the f
 
 
 <br>
-## Author
-## [Rohan Das](https://rohandas28.github.io)
+
