@@ -35,6 +35,16 @@ json
 ## Notes
 Please ensure that the camera is working properly and there is sufficient lighting in the room for face recognition to work effectively.
 Make sure that the student images are clear and there is no obstruction on the face.
+
+## Todo
+- [x] Finish initial app for synopsis
+- [ ] Add Students Exit Attendance
+- [ ] Add Students Database on entry 
+- [ ] Fetch Students Details from Database
+- [ ] Send Email to Parents when Attendance is Done  
+- [ ] Show Press Q to exit on Attendance Windows Text
+
+
 <br>
 ## Author
 ## [Rohan Das](rohandas28.github.io)
