@@ -37,4 +37,4 @@ Please ensure that the camera is working properly and there is sufficient lighti
 Make sure that the student images are clear and there is no obstruction on the face.
 <br>
 ## Author
-## [Rohan Das](rohandas28.github.io)
+## [Rohan Das](https://rohandas28.github.io)
