@@ -1,0 +1,6 @@
+{
+  "faces": [
+    { "name": "Harry", "file_path": "faces/haris.jpg" },
+    { "name": "Rohan", "file_path": "faces/rohan.png" }
+  ]
+}
