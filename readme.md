@@ -25,6 +25,7 @@ json
 
 - Clone the repository or download the files.
 - Install the required modules.
+- Install Vistual Studio Build Tools and Install C++ Libraries there 
 - Run gui.py file.
 - From the welcome screen, select one of the three options:
   - Open Attendance to mark attendance.
