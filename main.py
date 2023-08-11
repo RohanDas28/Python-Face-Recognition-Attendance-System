@@ -167,7 +167,8 @@ def TakeImages():
     Id = (txt.get())
     name = (txt2.get())
     if ((name.isalpha()) or (' ' in name)):
-        cam = cv2.VideoCapture(0)
+        # Set Camera
+        cam = cv2.VideoCapture(1)
         harcascadePath = "haarcascade_frontalface_default.xml"
         detector = cv2.CascadeClassifier(harcascadePath)
         sampleNum = 0
@@ -266,7 +267,8 @@ def TrackImages():
     harcascadePath = "haarcascade_frontalface_default.xml"
     faceCascade = cv2.CascadeClassifier(harcascadePath)
 
-    cam = cv2.VideoCapture(0)
+    # Take Attendance cam
+    cam = cv2.VideoCapture(1)
     font = cv2.FONT_HERSHEY_SIMPLEX
     col_names = ['Id', '', 'Name', '', 'Date', '', 'Time']
     exists1 = os.path.isfile("StudentDetails\StudentDetails.csv")
